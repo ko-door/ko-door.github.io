@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Goals"
+date:   2021-12-26 17:34:46 +0900
+categories: records update
+---
+
+1. Get tofle score more than 100
+2. Master C/C++
+3. Finish all inner circle projects of 42 Seoul.
+
