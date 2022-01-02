@@ -2,7 +2,6 @@
 title: "#pragma once"
 categories:
 - c/c++
-- update
 ---
 
 ## #pragma once
