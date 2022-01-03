@@ -13,4 +13,4 @@ categories:
 - move left or right index according to the value of the middle element
 
 ### examples
-[firstbad inversion - leet code](https://ko-door.github.io/algorithm/2022/01/03/first-bad-version.html)
+[first bad version - leet code](https://ko-door.github.io/algorithm/2022/01/03/first-bad-version.html)
