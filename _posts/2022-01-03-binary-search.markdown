@@ -2,6 +2,7 @@
 title: Binary Search
 categories:
 - algorithm
+- algorithm_method
 ---
 
 ## Binary Search
