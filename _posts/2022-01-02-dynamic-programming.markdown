@@ -19,3 +19,5 @@ categories:
 
 ### examples
 [burst ballons - leet code](https://ko-door.github.io/algorithm/2022/01/02/burst-balloons.html)\
+
+[palindrome partitioning - leet code](https://ko-door.github.io/algorithm/2022/01/05/palindrome-partitioning.html)
